@@ -1,0 +1,4 @@
+(executable
+ (public_name functional_data_structures)
+ (name main)
+ (libraries functional_data_structures))

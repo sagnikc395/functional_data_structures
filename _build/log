@@ -1,0 +1,6 @@
+# dune init project functional_data_structures
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/sagnik3/.cache/dune/db
+# Workspace root: /Users/sagnik3/PL/Projects/functional_data_structures
+# Auto-detected concurrency: 8
